@@ -1,0 +1,56 @@
+# The URL the site will be built for
+base_url = "https://symfony-user-group-zurich.github.io"
+default_language = "en"
+
+title = "Symfony User Group Zürich"
+description = ""
+author = "Symfony User Group Zurich"
+theme = "tabi-lite"
+
+generate_feeds = true
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# minify_html = true
+
+taxonomies = [
+    {name = "tags", feed = true},
+]
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+external_links_class = "external"
+
+[extra]
+# Enable KaTeX for all posts.
+katex = false
+
+# Enable Mermaid diagrams for all posts (loads ~2.5MB of JavaScript).
+mermaid = false
+
+# Add a "copy" button to codeblocks (loads ~700 bytes of JavaScript).
+copy_button = false
+
+# Use sans-serif font everywhere.
+# By default, the serif font is only used in articles.
+override_serif_with_sans = true
+
+# Enable JavaScript theme toggler to allow users to switch between dark/light mode.
+# If disabled, your site will use the theme specified in the `default_theme` variable.
+theme_switcher = true
+
+menu = [
+    { name = "Events", url = "events", trailing_slash = false },
+    # { name = "archive", url = "archive", trailing_slash = true },
+    { name = "Tags", url = "tags", trailing_slash = false },
+    # { name = "projects", url = "projects", trailing_slash = true },
+    { name = "Info", url = "info", trailing_slash = false },
+]
+
+tag_sorting = "frequency"
+enable_subset = true
