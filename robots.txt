@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://symfony-user-group-zurich.github.io/sitemap.xml

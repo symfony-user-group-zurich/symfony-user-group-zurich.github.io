@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://symfony-user-group-zurich.github.io/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/</loc>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/2024-03-04/</loc>
+        <lastmod>2024-03-04</lastmod>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/2024-06-11/</loc>
+        <lastmod>2024-06-11</lastmod>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/2024-11-13/</loc>
+        <lastmod>2024-11-13</lastmod>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/2025-02-26/</loc>
+        <lastmod>2025-02-26</lastmod>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/events/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/info/</loc>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/tags/</loc>
+    </url>
+    <url>
+        <loc>https://symfony-user-group-zurich.github.io/tags/liip/</loc>
+    </url>
+</urlset>

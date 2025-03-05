@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Symfony User Group Zürich</title>
+    <link href="https://symfony-user-group-zurich.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://symfony-user-group-zurich.github.io" rel="alternate" type="text/html"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-02-26T00:00:00+00:00</updated>
+    <id>https://symfony-user-group-zurich.github.io/atom.xml</id><entry xml:lang="en">
+        <title>Winter meetup 2025</title>
+        <published>2025-02-26T00:00:00+00:00</published>
+        <updated>2025-02-26T00:00:00+00:00</updated>
+        <author>
+            <name>Symfony User Group Zurich</name>
+        </author>
+        <link rel="alternate" href="https://symfony-user-group-zurich.github.io/events/2025-02-26/" type="text/html"/>
+        <id>https://symfony-user-group-zurich.github.io/events/2025-02-26/</id>
+        </entry><entry xml:lang="en">
+        <title>Autumn meetup 2024</title>
+        <published>2024-11-13T00:00:00+00:00</published>
+        <updated>2024-11-13T00:00:00+00:00</updated>
+        <author>
+            <name>Symfony User Group Zurich</name>
+        </author>
+        <link rel="alternate" href="https://symfony-user-group-zurich.github.io/events/2024-11-13/" type="text/html"/>
+        <id>https://symfony-user-group-zurich.github.io/events/2024-11-13/</id>
+        </entry><entry xml:lang="en">
+        <title>Summer meetup 2024</title>
+        <published>2024-06-11T00:00:00+00:00</published>
+        <updated>2024-06-11T00:00:00+00:00</updated>
+        <author>
+            <name>Symfony User Group Zurich</name>
+        </author>
+        <link rel="alternate" href="https://symfony-user-group-zurich.github.io/events/2024-06-11/" type="text/html"/>
+        <id>https://symfony-user-group-zurich.github.io/events/2024-06-11/</id>
+        </entry><entry xml:lang="en">
+        <title>Relaunch meetup</title>
+        <published>2024-03-04T00:00:00+00:00</published>
+        <updated>2024-03-04T00:00:00+00:00</updated>
+        <author>
+            <name>Symfony User Group Zurich</name>
+        </author>
+        <link rel="alternate" href="https://symfony-user-group-zurich.github.io/events/2024-03-04/" type="text/html"/>
+        <id>https://symfony-user-group-zurich.github.io/events/2024-03-04/</id>
+        </entry>
+</feed>
